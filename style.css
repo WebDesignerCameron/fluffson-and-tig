@@ -1,0 +1,39 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+	font-family: sans-serif;
+	font-weight: 500;
+	font-size: 2em;
+}
+.maintitle {
+	background: black;
+	color: white;
+	padding: 10px;
+	position: fixed;
+}
+main {
+	padding-top: 6pc;
+	background: white;
+	color: black;
+}
+fieldset {
+	outline: 3px solid purple;
+	width: 80%;
+}
+legend {
+	background: purple;
+	color: white;
+	font-weight: 600;
+	text-align: center;
+}
+.fl {
+	width: 100%;
+	text-align: center;
+	height: 100%;
+}
+img {
+	width: 90%;
+}
